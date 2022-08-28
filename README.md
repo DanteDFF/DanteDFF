@@ -1,5 +1,4 @@
-- 📫 You can message me on Discord Dante Raj#3409
--     You also can send me a Mail: management@releaseteam.de
+Im not a developer at all!
 
 <!---
 DanteDFF/DanteDFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
